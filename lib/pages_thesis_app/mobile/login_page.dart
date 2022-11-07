@@ -91,7 +91,7 @@ class _LoginPageState extends State<LoginPage> {
             filled: true,
             prefixIcon: const Icon(Icons.email_outlined),
             hintText: "Enter your email",
-            labelText: "Email",
+            labelText: "Admin",
             border: OutlineInputBorder(
               borderRadius: BorderRadius.circular(25),
             )),
